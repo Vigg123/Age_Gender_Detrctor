@@ -11,7 +11,7 @@ Simple age abd gender detector using Macgine learing
 1. Clone this repository
 2. Download the dataset [here](https://www.kaggle.com/datasets/jangedoo/utkface-new)
 3. Extract the dataset to your repository folder.
-4. Open Model [jupyter notebook](https://github.com/Vigg123/Age_Gender_Detrctor/blob/main/Model.ipynb)
+4. Open model(2) [jupyter notebook](https://github.com/Vigg123/Age_Gender_Detrctor/blob/main/model%20(2).ipyn)
 5. Run this notebbok
 6. run the[gui.py](https://github.com/Vigg123/Age_Gender_Detrctor/blob/main/gui.py) file
 7. Upload the image you want to detect
